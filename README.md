@@ -1,16 +1,10 @@
 # flutter_app_sau3
 
-A new Flutter project.
+Start
+<img src= "https://user-images.githubusercontent.com/69613390/134924174-6c8950fb-e6e4-48aa-aeef-635502599022.png" width = "250">
 
-## Getting Started
+Login
+<img src= "https://user-images.githubusercontent.com/69613390/134924599-48260d76-6f7b-40fe-ad7a-bd366e244f4a.png" width = "250">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+New Account
+<img src= "https://user-images.githubusercontent.com/69613390/134924712-a7d32328-710e-4ecc-ba5d-7f42d3340f93.png" width = "250">
